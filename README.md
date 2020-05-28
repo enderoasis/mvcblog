@@ -1,4 +1,2 @@
-# mvcblog
-Для собеседования. 
-Блог с добавлением/редактированием и удалением.
-PHP5 с архитектурой MVC
+# php-blog
+Simple PHP OOP blog based on mvc
