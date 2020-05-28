@@ -1,2 +1,4 @@
-# php-blog
-Simple PHP OOP blog based on mvc
+Основные файлы добавления, удаления,редактирование , входа в админку ( авторизацию )
+/application/views/admin/ - Основной каталог
+
+PHP5 _ MVC Архитектура
